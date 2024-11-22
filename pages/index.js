@@ -1,5 +1,5 @@
 function Home() {
-    return <h1>Atualizando projeto tab News</h1>
+    return <h1>Roberto Nicoletti</h1>
 }
 
 export default Home;
