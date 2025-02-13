@@ -5,3 +5,5 @@ services:
       POSTGRES_USER: "postgres"
       POSTGRES_PASSWORD: "postgress_password"
       POSTGRES_DB=mydb: "db_clone_tabnews"
+    ports:
+      - "5432:5432"
